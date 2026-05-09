@@ -6,7 +6,6 @@ This tool uses the [deep-translator-api](https://deep-translator-api.azurewebsit
 
 ## Features
 - **Global Hotkey**: Toggle window with `Alt + T`.
-- **Modern UI**: Clean dark-themed interface.
 - **Persistence**: Automatically saves your language and service settings.
 - **Always on Top**: Keeps the window accessible while multitasking.
 
